@@ -1,3 +1,6 @@
+Integrantes: Cauan Silva Oliveira e Maria Luiza Vaz de Almeida 
+RA: 124116634 
+
 1. Proposta de Trabalho:
 
 Uma loja de varejo online deseja melhorar seu processo de gestão de estoque e vendas para aumentar sua eficiência operacional e melhor atender às necessidades dos clientes. Atualmente, a empresa enfrenta desafios na organização do estoque, monitoramento de vendas e análise de desempenho, o que resulta em dificuldades para identificar produtos com baixa disponibilidade, realizar pedidos de reposição e acompanhar a demanda do mercado.
