@@ -3,7 +3,7 @@ RA:14410020/124116634
 
 1. Proposta de Trabalho:
 
-Uma loja de varejo online deseja melhorar seu processo de gestão de estoque e vendas para aumentar sua eficiência operacional e melhor atender às necessidades dos clientes. Atualmente, a empresa enfrenta desafios na organização do estoque, monitoramento de vendas e análise de desempenho, o que resulta em dificuldades para identificar produtos com baixa disponibilidade, realizar pedidos de reposição e acompanhar a demanda do mercado.
+Uma loja de varejo online deseja melhorar seu processo de gestão de estoque e vendas para aumentar sua eficiência operacional e melhor atender às necessidades dos clientes. Atualmente, a empresa enfrenta desafios na organização do estoque, monitoramento de vendas e análise de desempenho, o que resulta em dificuldades para identificar produtos com baixa disponibilidade, fazer pedidos de reposição e acompanhar a demanda do mercado.
 
 O sistema de gestão de estoque e vendas proposto deve ser capaz de realizar as seguintes funções, conforme os requisitos funcionais definidos:
 
