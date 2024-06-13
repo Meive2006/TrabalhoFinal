@@ -121,7 +121,7 @@ análise detalhada e criteriosa na engenharia de software.
 
 4. Diagrama de Classes:
 
-https://github.com/Meive2006/TrabalhoFinal/assets/162604563/00f8b96a-6887-4727-956e-d1df749cfaf6
+Esta no outro arquivo :)
 
 5. Estratégia de Programação com IA:
 
